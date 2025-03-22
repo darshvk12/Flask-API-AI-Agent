@@ -44,5 +44,8 @@ Flask
 
 JSON
 
+Running the app
 
-
+# First Run the server on your terminal using python app.py
+# Don't forget to add the API key in the server file 
+# then run the index.html file and your agent will now become fully functional 
